@@ -1,170 +1,148 @@
-# 行业洞察周报 · 2026-W42
+# 行业洞察周报 · 2026-W45
 
-> 时间窗：2026-10-09 ~ 2026-10-16（近 7 天） · 生成时间：2026-10-16 01:59 UTC · 模式：智能体研判
+> 时间窗：2026-10-26 ~ 2026-11-02（近 7 天） · 生成时间：2026-11-02 04:29 UTC · 模式：智能体研判
 
 ## 本周摘要
 
-- GlobalFoundries 获日本最高 210 亿美元投资，在纽约新建两座晶圆厂，海外半导体扩产带来真空与洁净压缩空气需求（S078、S102、S106）
-- SEMI 预测 2029 年全球 300mm 晶圆厂设备支出达 2270 亿美元，半导体设备投资长期向上（S109、S101）
-- 长安与 CATL 扩大合资，规划 75GWh 电池产线并推进固态与钠电，国轩摩洛哥 13 亿美元超级工厂确定投产时间（S024、S073）
-- 上海发布节能降碳「十五五」规划、广东启动节能降碳三年攻坚覆盖十大行业，高能效空压站改造需求有望提升（S141、S138）
-- 本周未抓到空压机、真空泵头部竞品的实质性新品或价格动作，竞品动态存在数据缺口（S123、S120）
+- 工信部拟新增34家领航级智能工厂，小米汽车工厂拟入选，整车厂产线自动化升级带来装配拧紧与压缩空气需求（S052、S054）
+- 电池PACK与锂电材料投产密集：广汽泰国电池PACK工厂投产、国轩高科20万吨正极材料项目投产（S026、S015、S067）
+- 半导体封测进入扩产潮，台积电拟上调先进封装价格，英飞凌、联电加码晶圆厂投资（S117、S115、S083）
+- 竞品ELGi发布AB系列无油螺杆压缩机，磁谷科技拟将磁悬浮压缩机基地投资增至8.5亿元（S128、S122）
+- 四川、广西推进重点行业节能降碳改造，能效标准升级利好高能效空压机替换（S153、S147、S143）
 
 ## 本周动态
 
 ### 新能源汽车
 
-**长安与 CATL 扩大合资，规划 75GWh 电池产线** · `销售机会·高`
+**工信部拟新增34家领航级智能工厂，小米汽车工厂拟入选** · `销售机会·高`
 
-- 发生了什么：长安与 CATL 扩大合资公司 Times Changan，计划建设 75GWh 电池产线，并合作固态电池和钠离子电池。
-- 对我们的影响：电池包装配及电芯制造新产能涉及压缩空气、装配拧紧设备，可跟进合资公司的设备采购；具体项目地点和节奏影响待评估。
-- 来源：[CarNewsChina](https://carnewschina.com/2026/10/14/changan-and-catl-to-collaborate-on-1500-km-solid-state-cells-establish-75-gwh-battery-lines/)
+- 发生了什么：工信部拟新增34家领航级智能工厂培育项目，小米汽车工厂在拟入选名单中；合肥经开区卓越级智能工厂增至6家。
+- 对我们的影响：智能工厂升级涉及整车厂产线自动化，可能带动装配拧紧和压缩空气系统需求，具体订单影响待评估。
+- 来源：[京报网](https://news.google.com/rss/articles/CBMickFVX3lxTFBmMWIwTEtkbG1faHZ0X0ZYbnV1R0lpM093Qnp6WDAtbnJjUkQ0X1gxeVpqNU9pM0ExaFF2MWRRT2x1YUxVdzFOaFY1TjNzQS1JcmJZUV9iNHRBNGc4TzZ2Qnc0MjBPdUFlM0JFUWFhQ0pyQQ?oc=5)；[北京市人民政府门户网站](https://news.google.com/rss/articles/CBMid0FVX3lxTE1LUTFGS0RlcVR0RW5tOTB5TGU3NHk3NHVNRmFYVnBSSmRvNThWN3RjODl2TklMS3hrNXBJMHlCempEeklVQm1zUXNBQk00N3AxSzJLRFFrZHFTcnZRdDRBc0FvRHJmc0VEVFlGR2Q1OHFKVXQyVFNj?oc=5)；[央广网](https://news.google.com/rss/articles/CBMib0FVX3lxTE80bzZtVW14dThWZVV1cUIxV2Y1cEJidTh5cjlma2Z6cFJtX2VsZ3FJLWh0TWYyazNUZXBIdG4yUS0xdGg3RmtpNlN2RGlsRExvdkkzcmJQYWhaZFI1eTZrZGwxaGJjNnlMeDJLcDlPUQ?oc=5)
 
-**宝马在沈阳启动第六代电池国产化生产** · `销售机会·中`
+**广汽泰国电池PACK工厂投产** · `销售机会·中`
 
-- 发生了什么：宝马在中国启动 Gen6 电池生产，用于 Neue Klasse 车型。
-- 对我们的影响：外资整车厂本地电池产线是装配拧紧与压缩空气的存量与增量客户，设备需求影响待评估。
-- 来源：[CnEVPost](https://cnevpost.com/2026/10/15/bmw-starts-gen-6-battery-production-china/)；[Electric Cars Report](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmZrU3AtWlBGWDVESGFKdkZqU2VUbE1YaTRYVkxqVE0zN3pmc1ZrbUlWelQ4MVVUQkZPWjctMmtSaldPb1g2X1dBaTdWRUtDSXVyekcwc1dFeXpZb2RFVm44WFAtQWVTSHhDd1U1Yk1sM3BJSkFZWTZtY2VZbHpSaF9GaFFiYzlPNUtOTnd3?oc=5)；[The EV Report](https://news.google.com/rss/articles/CBMidkFVX3lxTE1MUUpMYUE1c2t4eDVUSUtqUGNmVVZ5OEo3M0dHaXJZSnQ2QUgyVkMydUloRnp1WGZfR29BbjZmRUR4R2NGVV9mMmlpdWpPQlVsMHpDTkU2NXFoWThMeEFmZDlJc2E4VmpNS2d1WDZyTXNnZU4wNUE?oc=5)
+- 发生了什么：广汽旗下因湃电池在泰国新厂开始生产，维度网报道投资5000万元的PACK工厂投产。
+- 对我们的影响：东南亚电池PACK装配线对拧紧与压缩空气有需求，需确认设备采购渠道；影响待评估。
+- 来源：[electrive](https://www.electrive.com/2026/10/31/gac-launches-battery-production-in-thailand/)；[维度网](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZ2hmN0taNWdKNTN0QWJJYTJMOHV6QkFtdWo3QllmX3BkZUNndmNFenNRbndvZm1TQzVvdWFJOGRnMDl3cnpXVktxbFRjZDBWakhqaW5jS0c?oc=5)
 
-**东风一体化压铸技术获奖，奇瑞青岛设销售公司** · `产品·中`
+**一体化压铸技术推进** · `市场·中`
 
-- 发生了什么：东风一体化压铸技术获国际奖项；奇瑞在青岛超级工厂同址设新销售公司。
-- 对我们的影响：一体化压铸对压缩空气稳定性与能效要求较高，属于产线自动化升级趋势；对我们的具体订单影响待评估。
-- 来源：[长江网](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YSEZGbllCVVRJVWN1VGdET3dGVWhxcFp5aUpTejJZUjdNZC1vblprWWtEcVg2RTR1V0ZFeVc5dFdhUjZuS2thdTFFSDNDa19mZlhlUTBWQ2xRRjNoQTFPZ2NWWW0?oc=5)；[同花顺财经](https://news.google.com/rss/articles/CBMiYEFVX3lxTE81dnl4S0VOVmRDNC13Y3UyTk5jNko5UUhzbGJMdnZKNEh6T2NiQ3lDeks4aEtjdURXZGhKaDZnVHEzVjB5Q2VGWXQ3YUNWNGhiNzM0emM2dkR2aE5CTE9LWg?oc=5)
-
-**9月国内动力电池装车量 87.2GWh，增速连续两月放缓** · `风险·低`
-
-- 发生了什么：动力电池装车量同比增长 14.7%，CATL 份额 40.92%，BYD 21.09%。
-- 对我们的影响：整体需求仍在增长但增速放缓，电池厂扩产节奏可能趋于谨慎，影响待评估。
-- 来源：[CnEVPost](https://cnevpost.com/2026/10/15/china-ev-battery-installations-sept-2026/)；[CnEVPost](https://cnevpost.com/2026/10/15/top-ev-battery-makers-share-china-sept-2026/)
+- 发生了什么：东风一体化压铸技术获奖，福特为Fathom电动卡车铸造5000件一体式压铸件。
+- 对我们的影响：压铸车间使用大量压缩空气与真空设备，关注客户扩产节奏。
+- 来源：[汽车之家](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MYzM5b01rbU50R21HZlo2U1dLTlQzc0J5azd5RjFxSUZmX2Rqck9QZVFSWUhZbTcwRDVMS1JmTnMycU03Q1dYMnN3TG1rNS1ab3lVbW1icmRLVVk?oc=5)；[Electrek](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUm5pNGJING0weVRiYkRJZjNuN0Jfb1VoTnFTZTY0bko1U2VRTmRSNnZ3SDZTVk1MbkJEdWRSeHA3QTRJYnB5VW5jVGJHR1c0dHozZUhybHdKUTFBNWppUTZLVXVtY2RvZlhZYTA2ZnBLTmhiZ1lfQmNWU0I2djgweDNyOA?oc=5)
 
 ### 锂电
 
-**国轩高科摩洛哥 13 亿美元超级工厂确定投产时间** · `销售机会·中`
+**国内锂电材料与回收项目集中投产** · `销售机会·中`
 
-- 发生了什么：国轩高科摩洛哥工厂确定投产日期，面向非洲、欧洲和美国市场。
-- 对我们的影响：海外电芯厂建设涉及干燥房、注液工艺对干燥压缩空气和真空的需求，可关注当地配套机会。
-- 来源：[Business Insider Africa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa1ZKSTdEWjBLSGlER0NaUUdqdzFtNG1BTWRDWHZxeGRveHMxNnU1Y3pEdTRTSXVybEZ2ZWE1WVA3SVUtallEdloyanVUUkl2d1I1cDZxUWNsQ1MwOVdlbXJGX3d6VDd1TWRlR2xEajFMM09xX0w4Q3NnUk5aR28xTGJlWV9SM19vYWlQaEVwOF9tV0N4WFVxbHEwYjZtMGFydEpmNDkzX05GSTJlQzFFbU9iakdITm1CLXlhME5WaVdzbU5iLUF4QmZvMFJ1SXlxbDI4ZVgzem4?oc=5)
+- 发生了什么：国轩高科合肥年产20万吨正极材料项目投产，重庆环锂一期投产，贵安新区20万吨负极项目开工。
+- 对我们的影响：材料工厂的干燥、输送工艺需要干燥压缩空气，属销售机会，具体客户需求待评估。
+- 来源：[海融网](https://news.google.com/rss/articles/CBMiY0FVX3lxTE91UFZsTkpDZS1iTE5ROVlfd0VtYkJnajdKSXRxdmFzeTJLbjlibWFUTktQQmZOX3pMM3NaWm83TDRNYklZOEZQby1vRmlVcmJMV1VoZUFXWEVKckxqNWE4Q1p0Zw?oc=5)；[上海有色金属网](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPRXgwa2s0MjJob0szeWk3TktUY3RDMGlIeVFKcmEzMDY4empCWG5iWXRoUkpHZF9nT2ZmZmY5OFU0cXNoQTVHdFhR?oc=5)；[见道网](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBTDBLeHdDcy0xRkZfclZwdUxuOWNlZ2RTdzRNTW1ySUFsRl80Q0syWUZZWXB5SkVURk9fU1hZMTJGaHpMRE1DdU9WMy1iOFZ1WEliNw?oc=5)
 
-**广州吉瓦时级全固态电池产线投产，GBT 开始固态电芯量产** · `产品·中`
+**固态电池项目密集扩产** · `产品·中`
 
-- 发生了什么：国内和海外企业分别启动固态电池产线与量产。
-- 对我们的影响：固态工艺对干燥环境和真空要求更高，设备规格影响待评估。
-- 来源：[21财经](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVmJWZG5yRnlpTktXcUlzTnJJQm9JZ0Uwc3EyVE1OVS1CZlZOVmFGRWRPay1GdmJ0Szg4ckpFR2M5WE04aWVGQUM2eFpEMW1mZFIyYlM1dFVkVzNGMThKeGxwR21VOTJQa1g4ckNpUjNzMTdkTTUtQXcxMkFuelNQN292OVdLNDAxNmdJT2prUQ?oc=5)；[electrive.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDdVTVF3UmFmSHJPbjFqZm1yQUY0Uy1pMUx1NGxnMzlWZk5JZlVqTEZmS2RmVjhtRzBYUHRJZ0pmVVd3bkFCVkZIMkVlbS1lOWZFdy1UbTVwWkt1MXljWXhEVVZEb2JhSzhZSS1JWjVLUFUwdThVZldIaC0wclVLRy1NM1VreWd6Y2szX3ZmU18tcmlPc1M2Qm51SQ?oc=5)
+- 发生了什么：一个月内8个固态电池项目，清陶能源、巨湾技研、太蓝新能源等扩产。
+- 对我们的影响：固态电池工艺对干燥环境和真空要求高，影响待评估。
+- 来源：[https://www.itdcw.com/](https://news.google.com/rss/articles/CBMiXEFVX3lxTE82T0ZnU1dfbGg0TmZVTjJKMHFOeklacHJvcjlsR29vVUg1akFCVEg5VXBERmdQNENjVGJQQ2N5bGRkLWp4TG5fSHdaRXVxTDhtMVNTekp0bGZGYnJw?oc=5)
 
-**国内锂电新增产能项目：茂名 1.25GWh、百翼时代备案 1.2 亿元** · `销售机会·低`
+**储能电池订单与印度产能增长** · `销售机会·中`
 
-- 发生了什么：茂名电白锂电池基地产能 1.25GWh；百翼时代项目备案通过，总投资 1.2 亿元。
-- 对我们的影响：中小规模新项目，可作为区域销售线索跟进，影响待评估。
-- 来源：[碳索储能网](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80QUdHdlNmVmo4UHZaeU5UQTdHS2NSUEZqNXpyNDdoWkt5WlZMOHIzTEp5S3R1alVmdnhLSGNCTGNLdVlhWkQ1S0ZJb3JRRlA1UldESWg5ZTBweEtwU1JF?oc=5)；[观点网](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9waWZlUVVWeExrZHRJWTBtdGRQZFB5bVVaai1GSXpnaVdiYkhnZThCZUFHbzc3SmJoNHg4THZjSTlYUThhd1dhWDUxNFhBUQ?oc=5)
-
-**储能装机高增长但产能红利收窄** · `市场·中`
-
-- 发生了什么：9 月全球电网级储能新增 20.4GWh，同比增长 61%；国内百 GWh 厂商争抢长时储能市场。
-- 对我们的影响：储能电池需求持续，但厂商竞争加剧，扩产节奏存在不确定性。
-- 来源：[Energy-Storage.news](https://www.energy-storage.news/20-4gwh-grid-scale-bess-deployed-globally-in-september-up-61-ytd-installs-up-43/)；[华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtaXhxbzJiYlAxS1AzNjFERTlyakpfeDBZaWE0OTZvd1V3WmZRMURudl8tamY5UkFBYlpSbTN4VThoTTduaTZ4Q1pPbFp2Q3VOTFQw?oc=5)
+- 发生了什么：三星SDI今年已获60GWh储能电池订单；印度电池制造在建产能达110GWh。
+- 对我们的影响：海外电池建厂带来出海设备机会，影响待评估。
+- 来源：[Energy-Storage.news](https://www.energy-storage.news/samsung-sdi-60gwh-of-ess-battery-orders-in-2026-so-far-53-year-over-year-revenue-surge/)；[ESS News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ2c0U0ZvLTBqSnBlSmRLb0JDcVF4Tno3NndhQjkxNkVZcEFEU29jZDdURkxsRjdhUkx2MG9PVU93Q3NQTzBVejQ4akVkNXhIRGJZQkdzNVZjZ09OXzhNSjBuOEc2RU9ndnZsRnBQckhKUzl5UDBfeDdDdnh1VXdreWdrY1ZHUWJwTldncGdhLTVkY0ltOW1pQlRESndGT2s?oc=5)
 
 ### 半导体
 
-**日本投资最高 210 亿美元，GlobalFoundries 在纽约新建两座晶圆厂** · `销售机会·高`
+**半导体封测扩产潮，先进封装涨价** · `销售机会·高`
 
-- 发生了什么：GlobalFoundries 被选定在纽约运营两座新晶圆厂，将使美国芯片产能提升约 10%。
-- 对我们的影响：大型新建晶圆厂对工艺真空和高洁净压缩空气有长期需求；主要在北美，需评估全球客户项目协同。
-- 来源：[EE Times](https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/)；[GlobalFoundries](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVW9mTXJLZWtuSlVKNGw4bTZ1aTJuXzZ4UGZkcW14SFpXVjc5eDFsQUo5eldnMFo1a1NBNFpvTnhVSm5qRHAxbzE3Nl95cU9OMkhFLWMyamdST2ljcTl3NnhndjJzRnNnR3BwSWtiNTA5TWl2Vkx4YVBIVE1rZC1haFNDZjhUQUNXanlGZUFVN3NFT3Bzckp4UFRXaXRWbEZtYV9GbjBlakNXazBkSEtoSDJUbWJLTTFwOFZBMm1oWnN4T2dnSjIyY2laazlNLUxZQ3NrZWswMUY0M0Z6RWZn?oc=5)；[Manufacturing Dive](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzRrdUR0TUFWdmMtVlg2WkJBT2dDMlJ4aERac1RBa0NnQTlUMWo0Q1BEVEFCX1JrZEhnZ1NMSjBCTHZPMTBrd0owRXVFRUFMb2hTLU1BYW9mUXZOV0RmTzZvSnJFeEhZSW84X3Z6V1Q4SVpaMnRDYnJLNkNMemhEYVVIUTE5dFoyV0IxQUJZdV9ZLXpWbi1ZZEY4WUdOckRGWTF2am1zYnhReElL?oc=5)；[Spectrum News](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTXZmdGhqT1R2c3R1ZFJ5RzVEUlBvUXF5RFRiOXM5d0xwalZjNm1LYXFuM3hybzVDZjl3NTdobnpxRjhzQ1BlNjh3bjc4eElDSTRXVzdWRmtfNTJiTEpFQ1Y5WFFUTXl5WnBkSzA0UXM5Ml96SmNoSmJSUS11TkcxMjEtMEQ4WHE2UTZNX2xaZnctOW5EYzRaa29icS1lblh4Z0ZwR255ZHpEai1YNlhFcHd6a0tZTExwb0tWWm1WbkJOYlJLTkJWb2YybFFxcUJBbUFRc1VHVWs?oc=5)；[Pulse 2.0](https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWpCQmV3dXc5M3lvZ2NrWmdweFRsWTlWWjhkc2RvcXoxREdhRlVKdE12WjZUU3Z6SEdqM05XRjF4ZFZVQmZ0aTItakUySDlrQ3JqMllzZ3FUTWdha0xlc1F5bWE2WDdlNXFDYkJoTlBvUDJGbkxPZU44SFJpZURkMGlHNmhNcDJxS1ZfaVJEcnhqUUtRZEtUZHJmQnI2LWY3T3V3Y3I2STJ5Z1pQQ2tQcmdLSTlfdHlIczlYT19QZw?oc=5)；[Reuters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZjM3SC1iaHFNLTdkS2N5U3JVS3lMR0p4Q1ZTclVOa2RDbFpzR2E3R2I5UlFlYWlsWHJfeGlKSEpockRseEpCTGpsNFAzanBPUkVVa3FiUFNVeVZ3S0daZ2JRWGc3Zy04RmFSbFRHeU5kRy1HaGJ2ZmViUHlfYk5CN0xYMEhXb250eE41clpvVHF1RDhIRWF4Z1p0NS1rQmVtbjFNc2FjMzVTaTlvM24weWtzS1V4M1RVdHpXWVNCU2REdDVkd2FwZWQ1V1kxZUZU?oc=5)
+- 发生了什么：台积电据传拟将先进封装价格最高上调20%，行业进入集中扩产期，封测年会11月4日至6日举办。
+- 对我们的影响：封测厂扩产带动洁净压缩空气和真空需求，可借封测年会接触客户。
+- 来源：[东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mT1RWcFZ4SkMwb2oxYV8xNU9YN3lURDA5ZlFaMDNOZkVxT1RBRlF6eTU4QXY3OUZsRjJMYzJYUkwxay10TXI0VTI3UnpYeGFkN0JkM0RIZXVRdG5ibDhLSg?oc=5)；[搜狐网](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iXzVZT2ZhekFiOUVaSVBVSEVPdmhzVDlYeVFUMGlsY0tpQURmbFcxTWlwQlBzN2dLMVpmOUhhUGtFOUZRMkx1UjM4TW1jeV84ZzNZ?oc=5)；[17173](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yMTJqMEg3VDRoTnoxSmtmRldJSTZxT1RQNXlralM5UF8zTndYLWZZNzUyMFRSYS1xZVFpZE1hMG1yaU9QeXFPek5RWkJtemh5andpZGY4VDE3WXlHLXFvSlVYbUM?oc=5)
 
-**SEMI：2029 年 300mm 晶圆厂设备支出将达 2270 亿美元** · `市场·中`
+**晶圆厂投资加码** · `销售机会·中`
 
-- 发生了什么：SEMI 预测随着建设提速，设备支出持续增长；美洲 2029 年翻倍至 406 亿美元。
-- 对我们的影响：半导体设备投资长期向好，利好真空设备与洁净压缩空气需求。
-- 来源：[www.semi.org.cn](https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0hOVE5nbUIwRTA2bDVVUFVUUzBWb1kwV1FRZ1lJX1l2SXd2Mmk1Z1BPbVZfTkZkSmV2MW1DcU40Nm1rZmNMWEVzdFRJX0U4N18xd2NYUjdQemhBSTlvS3N6cWZObkZ5ZlB1WXB2cEI0Z19fTmZqc0FhYV9PcEdyTDFCckktdw?oc=5)；[电子工程专辑](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4VHJ4RkFxZWFnUnpNV190eE9YMng5MHlBbWZoOTZXQUNvOWdSam90YmhPVk0zbTM0YjJlMWQ1MFpRRk85dmVVVEFLT1paUkZXTndDVDBaT2g0a2F4?oc=5)；[华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtT1cyMXZGQVJFUGJiM3c2Q1plaTNCQmg5aFZ0S0w1al9wblNGRXVTU3F3YTlCR1l1UlBLY0djZjM3VXE2SV9QaTdVbXg1OWRIRHdV?oc=5)
+- 发生了什么：英飞凌与联电提高晶圆厂投资，英飞凌欧洲建300mm GaN晶圆厂，英特尔亚利桑那晶圆厂开始设备安装，三星德州第二工厂确认。
+- 对我们的影响：新建晶圆厂的工艺真空和高洁净空气需求；海外项目是否可参与影响待评估。
+- 来源：[SemiEngineering](https://semiengineering.com/chip-industry-week-in-review-162/)；[Semiconductor Today](https://news.google.com/rss/articles/CBMigwFBVV95cUxNczhGanNGOXp3NU9aMjdkREZRZEttcE9sZWg5YVJhdG5taHRCVGVOZVd1WXY1MXo1RU8xNVFEdW9yTVQ1VHRxdFlyWTd4akhsN1NzUmZSNHFTWTFPRDdGMEEtSE1tUzZReW5RT0xlX2N4QzNMQnlxYlNoYmVDbWIzNVlLTQ?oc=5)；[Cleanroom Technology](https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVlOdGZ6YWhuQTZsb2pxYVMyRWVhVkJQb0ktVWhhQWpiS0YwVU1WdFhGeWQ5c3ltZ1NHOHZrdEE2eERDcFJ5MnFrUG5lWWlUN2FYS0VrYmVkY2xvUGdFMklVMk4wa0FUMkV2UUtJTXJLNVZGa1NZeDhnM2R1aEhVLUV2YnE5RXY1SVpBR2g0VzdiVDY5YmZ3VzdMRFI?oc=5)；[MySA](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ3lmaGZIR25yZ2RxVGZ3bHRIRy1vbHl1LU12OVFYTl9fd3QxNU9Xbm1tODJpZTlneDJQYkZnZUhzVjIxSXJKei1uSnpCbENaODJzUUY1QWFIeWdaT0JiUjFZaDl0cVRvMWxndWhzMmRrQk9IcDZsdGlZQXNROHl5S1JGcER3YzFmaWNxM0hn?oc=5)
 
-**台积电亚利桑那第二座厂建成，探讨德州扩产** · `销售机会·中`
+**韩国设备商订单积压翻番** · `市场·低`
 
-- 发生了什么：台积电在三季报中称亚利桑那第二座晶圆厂建设完成，并在探讨德州扩张。
-- 对我们的影响：美国晶圆厂建设持续，配套设备需求影响待评估。
-- 来源：[Your Valley](https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1AxdTVGaVpyMjZSUEpvWGhpaXR2dDJJNVBQN05pVnkzM0V3VjRxTzNQd1lfY2ZaR1htUjVZRWRHZThuWmRXR25TQjZGNmpvU2dXZlBzdjNzY280S21Tb1RHSUhmc2l2U0VqMEMtM01RclJ5YmhOQjltN0VMTC1JVFZEWEpicE1RUEsxeGRZczNnVkgxRGtubWh1cFlZNjJwd2ZuMnNwVkdjaHJpZXBZNXFZVGNENkVzbUYxSUdLaEUwTC1qMHNF?oc=5)；[Austin American-Statesman](https://news.google.com/rss/articles/CBMipAFBVV95cUxOamhNellFNHczRjQwb0ZaVnFpbHllYzFZRlVHWDhxWmRkNjZaNzk5aEhxQ1BDYWdlWVE1b2xJeHhrTHVFT2JnZ1ZoNlVWQkd4RGR5N2dlbHpVb0tYRmptY0lVRkstdjl2RzNiNGg2Wno1S3k1Z3Iza2Y4WUQxd3E0emRfcmtBVEhUa0x2cTRreGFqVHVlNWhQRldwWWYzQXRkUHpxVg?oc=5)
-
-**三星、SK 海力士扩产，国内粤芯半导体上市募资扩产** · `销售机会·中`
-
-- 发生了什么：韩国设备商积压订单翻番；粤芯半导体登陆创业板，半数募资用于扩产能。
-- 对我们的影响：亚洲晶圆厂扩产可带来国内及韩国客户的真空需求，具体影响待评估。
-- 来源：[财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPemxFemNST3hJMmVrUkNGTTNzNEU5TDdxZ1pucVNlRFdwbzZ5V1huX2pXei1ra0JQaUgxaUZtQUlPd1llZHlOUA?oc=5)；[中证网](https://news.google.com/rss/articles/CBMieEFVX3lxTE5wVWFFNFFRemRtV2FMclB0ODV2UjVXTDlSYzB1SWRWUEViU20yNEIwX0dLYmMyNHRDZF9Udy1WbE9UWnlFczBodlVPLXhYS3AwY0FHQUdublJOVHU0aHdCZFpuRU4wZmdwX0hOYjV0S0J0T3IwYkNiOA?oc=5)；[同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFcXZIOFdvUzhpTFlPVTRlQ3ZNVHZPQVdvRUQ1YnRiaXhCdlBhMF9HRTVrQXJkNUVfcW1yTmUyRkJRdERJcnFEWFc1UzBWSDkxTk5qX3hBT2h6SGZ4M0UwbDln?oc=5)
+- 发生了什么：受三星、SK海力士扩产带动，韩国多家半导体设备商积压订单翻番。
+- 对我们的影响：说明设备投资周期上行，影响待评估。
+- 来源：[财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPemxFemNST3hJMmVrUkNGTTNzNEU5TDdxZ1pucVNlRFdwbzZ5V1huX2pXei1ra0JQaUgxaUZtQUlPd1llZHlOUA?oc=5)
 
 ### 压缩空气与真空竞品
 
-**Bitzer 发布数据中心冷却用螺杆压缩机** · `产品·低`
+**ELGi发布AB系列无油螺杆压缩机** · `风险·中`
 
-- 发生了什么：Bitzer 推出面向数据中心冷却的螺杆压缩机。
-- 对我们的影响：属制冷压缩机，与我们的空气压缩机直接竞争有限，影响待评估。
-- 来源：[Cooling Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMG1FdE9RYUlvTXl6WU10T1FlU1c1Q25yb1BlMlpoT1pPZ0U2b1JTVkx4aFM0UWpDcmdLdkV2TmNNbFFmUGJBZDhoMkEzWWdDQ1NRSFRpcGJ2WTZlT0d3eUtDQnZQXzVvWDJxTnNmM0xFaWRXdm9nZFhTd3lGUVU2RzJhWl9TaFRObzVEZGk5TV9LaS1QWjYw?oc=5)
+- 发生了什么：ELGi在drinktec India 2026展出更新的AB系列无油螺杆压缩机。
+- 对我们的影响：直接对标无油压缩机产品线，需评估其能效与价格。
+- 来源：[Telugu Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV0JVY01Ycmk4SUtsTHpFel8yWVdVek5CRFJVQ2xGMnRTUlpWWUFzZ0I5c090Wm94eG9KX1dONF9hby1aUDVJNXRBNUF1QURsNzB2OE5ZbThFNHZwTUZLc0tUdVlTWDNTX2FINTBMRXhmVVZDZjN1MmY5THNTRHkteTE4WjV3MThYRXhyRjJuX2pGaVUwOHFreUxEVDN4RXhKYURIQlZybVM0QnZSSmF5b05qODRMXzVSYVVINlpTdWlkMTJVRjNyNQ?oc=5)；[Machine Maker](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTndlZW9MQTVvUXAzWEtjTU1MV0t3QnV0NG1xMW9UM09qc09CbWZyZ05QZU5CNjVXSFFjV1hsWlQ1YXBoTGc3QTBmbFhmeU83V0VoUmI0bVJTMXR5QXozeUp1S2JBRnA5RkVhbl9IOGhrM05QS3ZLeHBmdnI2UWM5dWZqZ2x4anhOYUlxbUlFa1E2V3BmMVVaX2ZzaGVSTlhSTlpESGtkU0REZDdZTk01bHdDNG0?oc=5)
 
-**工业空压站节能改造成为项目热点** · `销售机会·中`
+**磁谷科技扩大磁悬浮压缩机基地投资** · `风险·中`
 
-- 发生了什么：北海造船完成全链条数字化空压站改造；行业文章评析空压站节能改造模式。
-- 对我们的影响：数字化、节能化空压站改造趋势明显，可作为智能运维与节能改造方案的销售切入点。
-- 来源：[国际船舶网](https://news.google.com/rss/articles/CBMicEFVX3lxTE1NMEdmUFotakdXMTh3NlpjM3ktLVlTV2s2cnE1MkRzMVRGdWNZZzRSelp5Tzg3RmpGaDFWbHJZLV9saFhLRHNzYm9BVUUxbDFyNGs4N3p2enBkZjZiQzlxRVhIZERJMXNkUTNzbW1Takg?oc=5)；[搜狐](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOVcyQkh1Tmx5aHNlME15MDJyRHZxX3NGTm4tVl83UnpnYWJoUDRleWVCajQ0c1dCSWZRMmJ6NmR3dThLZnVaUHoxcEpkMWxWWjYxRVI1WFpmRWIzSExWM1ZoNXRpT2RRa1Y0dEh2dWlrX1hBVzMwUFNUR0g1YjNqNzNZWVBvTXBT?oc=5)
+- 发生了什么：磁谷科技拟将磁悬浮压缩机基地投资增至8.5亿元；瑞沃建成全国首条空压机智能制造检测线。
+- 对我们的影响：国产磁悬浮产能扩大，可能加剧中高端报价竞争。
+- 来源：[搜狐网](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpNENsN013Vmo2bjZrMG1UUUpvSEZHVlNIRXJGRDBRcmtOcUt4cU4wOFpHZGlvLWQwREVqckpTMGwzUFUtQXpLSHN6ZWV0ajQyTnc?oc=5)；[搜狐网](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yNDlyX0pMd2dCSDIxYWRlLS00SHo3aW5vQ1dla3U1empETmJfNG10em1Na3BpZ25mNWZaajhTX24ybU01eTlMd25yQzA2ODZhX3lSd3RIdw?oc=5)
+
+**Ingersoll Rand上调全年业绩预期** · `市场·低`
+
+- 发生了什么：Ingersoll Rand将2026年调整后EPS预期上调至3.58-3.70美元。
+- 对我们的影响：显示竞品需求稳健，对我们产品线的直接冲击待评估。
+- 来源：[TOKENPOST](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zSGdaWlJkQ05VUVFQcXhtZEZOZFZWYjVoNWxxVTRpUDd3VU53WTNVN0xocjFCR0ZkcVBhNmZWSGN3RklqOWF4ZU1Jc19WNmNVdkowMkVYUmg?oc=5)
 
 ### 节能降碳政策
 
-**上海印发节能降碳和循环经济「十五五」规划** · `销售机会·高`
+**四川、广西推进重点行业节能降碳改造** · `销售机会·高`
 
-- 发生了什么：规划提出提升数据中心能效准入门槛，推进绿色数据中心建设。
-- 对我们的影响：高能效设备替换需求在上海及数据中心、工业客户中可能增加，具体补贴细则影响待评估。
-- 来源：[21财经](https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0dTUTFHWDBOVUVwV0J5bUlBRHVqbW51czZCOV9raXlzRC1KSklYVjkyV0t5U0VpY1BhaUJwcEVWckRSZVkwYTJ2SEJlOE9ETjc0U1lUcEc5VHBjZC1LbF95TTQtNHZSZFZST0hEcDlONGdYZ3UzRU9mNk1XOWhQY0lCeTcwZUVVMVF3cm1PTQ?oc=5)；[上海市人民政府](https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ZmdTBPR194a2Zpay01ZWEwanFmZWFzV3NKS3l3eFI5NE5qa1dHeGRKRHNRN1gyUERoWXJiOXhWbFVZUE84SE00ZVFtZnBwMzNicWxuRktsa3BpNmg1QjZXeVprYkVCUHduV2FxWWhLRmFFTDh5SjFrR1lnSVg4bUVxMWVCcC1LUlE?oc=5)；[观点网](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXS1NxX1VRVDZPc1hWNl96WnV2bV9yU0MybE5qUW5zZnAtZjB6d0xITGp6aW9IUTBYQmc1ZGprR3l6WEpGYzZ5bFR5Y1Aydw?oc=5)；[财联社电报](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9nN1E5WkI0UVhPYTczSVVRUV9YNFkxb0wtQmkxaWh6ODBBTkw3TXVpWnY0Qzc2R0J1VEhqYmpYMXQ3OHpNc3c?oc=5)
+- 发生了什么：四川印发重点行业节能降碳改造攻坚三年行动方案；广西做好九大重点行业节能降碳改造。
+- 对我们的影响：重点行业改造可能带来空压站节能改造和高能效设备替换机会，具体行业待评估。
+- 来源：[中国能源新闻网](https://news.google.com/rss/articles/CBMicEFVX3lxTFBVOU1kNjFJTlplc2tMZnIzdnozRVM4YXZTVnlkWGlTS0h2enpheVdYSnhncTllWGFnUHFJQjJMZmdxazkweEo3Z2lRd2FTVFBWanBDaVd4WVpNbS13U2JaSDNYU04zZXVMUkowbUE0cGk?oc=5)；[人民网](https://news.google.com/rss/articles/CBMiakFVX3lxTE11eVlIaWdsWjVPU3ZIa2NPcThKRFUyME1vcUh4OGZwMnoxY3ZvZlhyTGlkb0VZVHZ3OVRQZERTYkY4ZzJSd3U0WUZkZVlxVGVSMkxrdXppLVR1RlJaYkZMNVJpU0RUbzVPc0E?oc=5)
 
-**广东启动节能降碳三年攻坚，十大行业迎能效考核** · `销售机会·高`
+**钢铁行业节能降碳提速与电机能效标准升级** · `市场·中`
 
-- 发生了什么：广东面向十大行业开展能效提升三年行动。
-- 对我们的影响：制造业客户面临能效压力，空压站节能改造与变频产品有机会，具体行业清单影响待评估。
-- 来源：[搜狐](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdXdwdlo2Z2FwYjEwd0NXWWYycFFOU3VCLWhyeHJvNVBSNFNYS3UydFk1ZzFHZS0yLVlNREpXdVNtb01iVkpzSk9IUWNja2ZHSGNlRU12MmZEejhTWVFTNFlBdmhJS2xQQ1FhX2Z3RGttOVlvTXJZZzMyRHpaWTVBM2VoQ3NaTmNH?oc=5)
-
-**能效标识目录更新** · `产品·中`
-
-- 发生了什么：能效标识目录更新，节能设备从政策约束走向市场筛选。
-- 对我们的影响：是否涵盖空压机或真空设备影响待评估，需产品团队核对目录。
-- 来源：[QQ News](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LdHl0UHBaRXNfUk9uTlZDQmc3ZUpKRWx5WTZ1WHBrcjFBWHpXX1RMbEFtSm84ekRSdElwRmY0LXRwYllpamE4c2dacU9ic054Z0ZMai1R?oc=5)；[证券之星](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMb1pMcTIyNFR6c3d4V25KX0l0MGZGNHFlS2pFRFROeENNZHdnMmJmbVBSTDFUajF3Nm9CTDBOU1A3UndYWFk3ZF9oZHNISHMxbXcxQ2ZMejhJTEhaQTRoVw?oc=5)
+- 发生了什么：中国钢铁行业节能降碳进一步提速；东北证券称能效标准升级推动电机行业增长。
+- 对我们的影响：高耗能客户与能效标准升级利好变频、高能效空压机，影响待评估。
+- 来源：[碳道app](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MQ3FhU1c2TGw2YVQ2STBWY2JYa0dEN3U5WkJsUEFlU1YwX25ha2I1YUVzOG5Rd2tFYUJEUVN6LVpCcjNjSG0wSk5tcnhTOHRJLUt6Y2tTZnByUXhPTVE?oc=5)；[亿欧](https://news.google.com/rss/articles/CBMiWkFVX3lxTE95VDJFcWJ2cTlUMWFEXzNuNVBOOUZ5d3p2ZUtmSmRFYU9fMUF2REN2ODZZYnY2VkJpSVpnWUhmakI2ZmJsMHRqMmN2bVlsSFFZWkRDUWVhSmoxUQ?oc=5)
 
 ## 对业务的影响
 
 | 影响方向 | 等级 | 事件 | 行业 |
 |---|---|---|---|
-| 销售机会 | 高 | 长安与 CATL 扩大合资，规划 75GWh 电池产线 | 新能源汽车 |
-| 销售机会 | 高 | 日本投资最高 210 亿美元，GlobalFoundries 在纽约新建两座晶圆厂 | 半导体 |
-| 销售机会 | 高 | 上海印发节能降碳和循环经济「十五五」规划 | 节能降碳政策 |
-| 销售机会 | 高 | 广东启动节能降碳三年攻坚，十大行业迎能效考核 | 节能降碳政策 |
-| 销售机会 | 中 | 宝马在沈阳启动第六代电池国产化生产 | 新能源汽车 |
-| 销售机会 | 中 | 国轩高科摩洛哥 13 亿美元超级工厂确定投产时间 | 锂电 |
-| 销售机会 | 中 | 台积电亚利桑那第二座厂建成，探讨德州扩产 | 半导体 |
-| 销售机会 | 中 | 三星、SK 海力士扩产，国内粤芯半导体上市募资扩产 | 半导体 |
-| 销售机会 | 中 | 工业空压站节能改造成为项目热点 | 压缩空气与真空竞品 |
-| 销售机会 | 低 | 国内锂电新增产能项目：茂名 1.25GWh、百翼时代备案 1.2 亿元 | 锂电 |
-| 产品 | 中 | 东风一体化压铸技术获奖，奇瑞青岛设销售公司 | 新能源汽车 |
-| 产品 | 中 | 广州吉瓦时级全固态电池产线投产，GBT 开始固态电芯量产 | 锂电 |
-| 产品 | 中 | 能效标识目录更新 | 节能降碳政策 |
-| 产品 | 低 | Bitzer 发布数据中心冷却用螺杆压缩机 | 压缩空气与真空竞品 |
-| 市场 | 中 | 储能装机高增长但产能红利收窄 | 锂电 |
-| 市场 | 中 | SEMI：2029 年 300mm 晶圆厂设备支出将达 2270 亿美元 | 半导体 |
-| 风险 | 低 | 9月国内动力电池装车量 87.2GWh，增速连续两月放缓 | 新能源汽车 |
+| 销售机会 | 高 | 工信部拟新增34家领航级智能工厂，小米汽车工厂拟入选 | 新能源汽车 |
+| 销售机会 | 高 | 半导体封测扩产潮，先进封装涨价 | 半导体 |
+| 销售机会 | 高 | 四川、广西推进重点行业节能降碳改造 | 节能降碳政策 |
+| 销售机会 | 中 | 广汽泰国电池PACK工厂投产 | 新能源汽车 |
+| 销售机会 | 中 | 国内锂电材料与回收项目集中投产 | 锂电 |
+| 销售机会 | 中 | 储能电池订单与印度产能增长 | 锂电 |
+| 销售机会 | 中 | 晶圆厂投资加码 | 半导体 |
+| 产品 | 中 | 固态电池项目密集扩产 | 锂电 |
+| 市场 | 中 | 一体化压铸技术推进 | 新能源汽车 |
+| 市场 | 中 | 钢铁行业节能降碳提速与电机能效标准升级 | 节能降碳政策 |
+| 市场 | 低 | 韩国设备商订单积压翻番 | 半导体 |
+| 市场 | 低 | Ingersoll Rand上调全年业绩预期 | 压缩空气与真空竞品 |
+| 风险 | 中 | ELGi发布AB系列无油螺杆压缩机 | 压缩空气与真空竞品 |
+| 风险 | 中 | 磁谷科技扩大磁悬浮压缩机基地投资 | 压缩空气与真空竞品 |
 
 ## 行动建议
 
 | 负责团队 | 建议动作 | 依据 |
 |---|---|---|
-| 销售 | 跟进长安-CATL 75GWh 与宝马沈阳电池产线的设备采购联系人，摸清压缩空气与拧紧设备需求 | S024、S015 |
-| 销售 | 梳理广东十大行业与上海重点制造客户的空压站改造清单，主推高能效与变频方案 | S138、S141、S125 |
-| 产品 | 核对最新能效标识目录是否涵盖空压机、真空泵，并评估现有产品线合规与能效差距 | S146、S147 |
-| 产品 | 评估固态电池与晶圆厂对干燥压缩空气、真空的规格要求 | S069、S078 |
-| 市场 | 针对半导体和电池海外建厂组织技术交流与案例宣传，覆盖国芯展等客户场景 | S073、S109、S119 |
-| 市场 | 补充竞品信息源，覆盖头部竞品官网与 Compressed Air Best Practices | S123 |
+| 销售 | 跟进小米汽车等入选智能工厂的整车厂，梳理装配拧紧与压缩空气需求 | S052、S054 |
+| 销售 | 借11月4-6日封测年会接触封测与晶圆厂客户，推介洁净空气和真空方案 | S095、S115、S117 |
+| 销售 | 对四川、广西重点行业客户推广空压站节能改造 | S153、S147 |
+| 产品 | 对比ELGi AB系列无油机与磁悬浮机型的能效和价格，更新竞品对照 | S128、S122 |
+| 市场 | 准备锂电材料和电池PACK工厂的干燥空气、装配方案宣传材料 | S067、S026、S077 |
 
 ## 数据覆盖与缺口
 
 | 行业 | 信号条数 | 成功请求 | 失败的源 |
 |---|---|---|---|
-| 新能源汽车 | 55 | 7 | — |
-| 锂电 | 22 | 3 | — |
+| 新能源汽车 | 54 | 7 | — |
+| 锂电 | 23 | 3 | — |
 | 半导体 | 40 | 5 | — |
-| 压缩空气与真空竞品 | 16 | 4 | Compressed Air Best Practices |
+| 压缩空气与真空竞品 | 18 | 4 | Compressed Air Best Practices |
 | 节能降碳政策 | 19 | 3 | — |
 
 ---
